@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "462688812483",
+    "project_id": "communityhustle-fa945",
+    "storage_bucket": "communityhustle-fa945.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462688812483:android:8cd9e709819f5d531e5176",
+        "android_client_info": {
+          "package_name": "com.example.community_hustle_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462688812483-vai4argu1ua7b5532pm5t2hspkmvq6e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBft8l1nhehcq25LtA1fD8RUCqA7qCOdDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462688812483-vai4argu1ua7b5532pm5t2hspkmvq6e1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462688812483-q8jie4fii4rt06vda7e1cdj511lgocpf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.communityHustleFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
