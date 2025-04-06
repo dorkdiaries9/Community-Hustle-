@@ -1,16 +1,36 @@
-# community_hustle_flutter
+# 🌟 Community Hustle
 
-A new Flutter project.
+A powerful Flutter web platform that bridges **NGOs**, **volunteers**, and **gig providers** to collaborate, create change, and hustle together for a better society.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✨ **Role-Based Sign-Up & Login**  
+🔒 Secure Firebase Authentication (Email & Google Sign-In)  
+📄 NGO Dashboard to post opportunities and manage volunteers  
+🙋 Volunteer Dashboard with profile, gallery, messaging, and applications  
+💼 Gig Provider Section to post gigs, manage payments & real-time chats  
+📦 Firebase Firestore backend integration  
+🌐 Fully responsive Flutter Web UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📺 MVP Demo Video
+
+[![MVP Demo](https://img.shields.io/badge/Watch-MVP%20Demo-red?logo=youtube)](https://youtu.be/6fV1gHt0iR0)
+
+---
+
+## 🧩 Tech Stack
+
+- **Flutter Web** (UI)
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Firebase Hosting**
+- **GitHub Actions (Optional for CI/CD)**
+
+---
+
+## 📁 Folder Structure (Key Files)
+
